@@ -9,3 +9,5 @@ build
 /app/tailwind.css
 
 .DS_Store
+
+._*
